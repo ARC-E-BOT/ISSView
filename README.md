@@ -1,9 +1,9 @@
-# IssView
+# ISSView
 
 ![well the image does not want to show up LOL so here is some text XD](https://i.imgur.com/eNv2zaA.jpg)
 
 
-IssView is a collaborative [International Space Station](https://en.wikipedia.org/wiki/International_Space_Station) Tracking app. this app presents the user with various information such as where the ISS is in relation to an entered location, what is the weather like where the ISS is at, and things of that nature. 
+ISSView is a collaborative [International Space Station](https://en.wikipedia.org/wiki/International_Space_Station) Tracking app. this app presents the user with various information such as where the ISS is in relation to an entered location, what is the weather like where the ISS is at, and things of that nature. 
 
 by default the app displays distance from Minneapolis, Minnesota to the ISS's current location but this can be changed via the menu in the top right corner, as well as some other features that you may find interesting!
 ___
