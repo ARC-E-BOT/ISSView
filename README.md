@@ -20,7 +20,7 @@ ___
 - [jQuery](https://jquery.com/)
 ___
 ## Use It
-[Link to IssView](https://arc-e-bot.github.io/ISSView/)
+[Link to IssView](https://coop25.github.io/ISSView/)
 ___
 ## Notes
 this is a clone of our original project for my personal Account info for all contributors and original repo listed below
